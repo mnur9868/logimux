@@ -22,6 +22,9 @@ Easily to remove them by uninstall.sh
 
 -> bash
 
+*Username = root
+*password = root
+
 #How to uninstall 
 
 -> chmod 755 uninstall.sh
