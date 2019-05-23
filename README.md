@@ -11,6 +11,7 @@ Easily to remove them by uninstall.sh
 
 
 #How To Install
+
 -> git clone https://github.com/mnur9868/logimux
 
 -> cd logimux
@@ -22,6 +23,7 @@ Easily to remove them by uninstall.sh
 -> bash
 
 #How to uninstall 
+
 -> chmod 755 uninstall.sh
 
 -> ./uninstall.sh
